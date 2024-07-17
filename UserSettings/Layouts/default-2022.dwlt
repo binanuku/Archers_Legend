@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 505
     height: 939
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 16192}
   vertical: 1
-  controlID: 138
+  controlID: 136
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 16192}
   vertical: 0
-  controlID: 139
+  controlID: 137
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 140
+  controlID: 138
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 141
+  controlID: 139
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -933,7 +933,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.0019957407, y: -0.0027787413, z: 0.000042958593, w: 1.0002503}
     speed: 2
-    m_Value: {x: -0.0019952296, y: -0.0027780295, z: 0.00004294759, w: 0.99999416}
+    m_Value: {x: 0.0019957407, y: 0.0027787413, z: -0.000042958596, w: -1.0002503}
   m_Size:
     m_Target: 663.74817
     speed: 2
@@ -1069,8 +1069,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Resource/Roullette
+    m_Folders: []
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1079,7 +1078,7 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend"
+  m_LastProjectPath: "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Archers_Legend"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
