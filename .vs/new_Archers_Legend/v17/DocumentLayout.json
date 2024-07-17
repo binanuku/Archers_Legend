@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|c:\\users\\binan\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\new_archers_legend\\assets\\scripts\\slotmachinemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotmachinemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|c:\\users\\binan\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\new_archers_legend\\assets\\resource\\roullette\\roulettemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\resource\\roullette\\roulettemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\roomcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemy_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\player\\playerhpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\player\\player_targeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player_targeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemysheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemysheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemypenguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemypenguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemycat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemymeleefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymeleefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\stagemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stagemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\nextdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\enemyhpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\player\\joystick_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\joystick_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\assets\\scripts\\enemy\\lasercat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC659D3-3D6F-A0E1-EFF9-DE364F416AEC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\lasercat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotMachineMgr.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\SlotMachineMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotMachineMgr.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\SlotMachineMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotMachineMgr.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:31:12.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouletteMgr.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Resource\\Roullette\\RouletteMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Resource\\Roullette\\RouletteMgr.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Resource\\Roullette\\RouletteMgr.cs",
+              "RelativeToolTip": "Assets\\Resource\\Roullette\\RouletteMgr.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:52:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StageMgr.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\StageMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StageMgr.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\StageMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StageMgr.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:15:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomCondition.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\RoomCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoomCondition.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\RoomCondition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoomCondition.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:14:24.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NextDoor.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\NextDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextDoor.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\NextDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:13:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyCat.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyCat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyCat.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyCat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyCat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:01:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyPenguin.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyPenguin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyPenguin.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyPenguin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyPenguin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:20:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySheep.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemySheep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySheep.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemySheep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySheep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:23:38.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player_Targeting.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\Player_Targeting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player_Targeting.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\Player_Targeting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player_Targeting.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwIgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:26:16.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\Player_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player_Movement.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\Player_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player_Movement.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:26:13.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyMeleeFSM.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyMeleeFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMeleeFSM.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyMeleeFSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMeleeFSM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:17:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyHpBar.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyHpBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHpBar.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyHpBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHpBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:17:59.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyDuck.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyDuck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyDuck.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\EnemyDuck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyDuck.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:17:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy_Base.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\Enemy_Base.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Base.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\Enemy_Base.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Base.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:17:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHpBar.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\PlayerHpBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHpBar.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\PlayerHpBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHpBar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:14:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JoyStick_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\JoyStick_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\JoyStick_Movement.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Player\\JoyStick_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\JoyStick_Movement.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:20:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LaserCat.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\LaserCat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\LaserCat.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\new_Archers_Legend\\Assets\\Scripts\\Enemy\\LaserCat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\LaserCat.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:19:47.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

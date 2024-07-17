@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Archer\u0027s Legend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B9D242-4E33-61C5-2159-F75E8E9DB225}|Assembly-CSharp.csproj|c:\\users\\binan\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\archer\u0027s legend\\assets\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B9D242-4E33-61C5-2159-F75E8E9DB225}|Assembly-CSharp.csproj|solutionrelative:assets\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Archer\u0027s Legend\\Assets\\Player_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_Controller.cs",
+              "ToolTip": "C:\\Users\\binan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Archer\u0027s Legend\\Assets\\Player_Controller.cs",
+              "RelativeToolTip": "Assets\\Player_Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:54:57.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
