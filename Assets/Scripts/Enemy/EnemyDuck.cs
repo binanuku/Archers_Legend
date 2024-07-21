@@ -76,4 +76,28 @@ public class EnemyDuck : EnemyMeleeFSM
             Instantiate(EffectSet.Instance.DuckDmgEffect, collision.contacts[0].point, Quaternion.Euler(90, 0, 0));
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.transform.CompareTag("Bullet"))
+        {
+            float bulletDmg = other.gameObject.GetComponent<Bullet>().dmg;
+            enemyCanvasGo.GetComponent <EnemyHpBar>().Dmg();
+            Instantiate(EffectSet.Instance.DuckDmgEffect, other.transform.position, Quaternion.Euler(90, 0, 0));
+
+            GameObject DmgTextClone = Instantiate(EffectSet.Instance.MonsterDmgText, transform.position, Quaternion.identity);
+
+            if(Random.value < 0.5)
+            {
+                currentHp -= bulletDmg;
+                DmgTextClone.GetComponent<DmgTxt>().DisplayDamage(bulletDmg, false);
+            }
+            else
+            {
+                currentHp -= bulletDmg;
+                DmgTextClone.GetComponent<DmgTxt>().DisplayDamage(bulletDmg * 2f, false);
+            }
+            Destroy(other.gameObject);
+        }
+    }
 }

@@ -6,7 +6,7 @@ public class Bullet : MonoBehaviour
 {
     int bounceCnt;
     int wallBounceCnt;
-    float dmg;
+    public float dmg;
     Vector3 NewDir;
     Rigidbody Rb;
 

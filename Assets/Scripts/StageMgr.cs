@@ -49,6 +49,12 @@ public class StageMgr : MonoBehaviour
     public void NextStage()
     {
         currentStage++;
+        if(currentStage > LastStage)
+        {
+            UIController.Instance.EndGame();
+            return;
+        }
+
         if (currentStage % 5 != 0)
         {
             int arrayIndex = currentStage / 10;

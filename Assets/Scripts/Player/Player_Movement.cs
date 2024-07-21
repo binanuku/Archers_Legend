@@ -54,7 +54,7 @@ public class Player_Movement : MonoBehaviour
         if (other.transform.CompareTag("MeleeAtk"))
         {
             other.transform.parent.GetComponent<EnemyDuck>().meleeAtkArea.SetActive(false);
-            PlayerHpBar.Instance.currentHp -= other.transform.parent.GetComponent<EnemyDuck>().damage;
+            PlayerData.Instance.currentHp -= other.transform.parent.GetComponent<EnemyDuck>().damage;
 
             if (!Anim.GetCurrentAnimatorStateInfo(0).IsName("Damaged"))
             {
@@ -62,6 +62,12 @@ public class Player_Movement : MonoBehaviour
                 Instantiate(EffectSet.Instance.PlayerDmgEffect, Player_Targeting.Instance.AtkPoint.position, Quaternion.Euler(90, 0, 0));
             }
             Anim.SetBool("Idle", true);
+        }
+
+        if(Player_Targeting.Instance.MonsterList.Count <= 0 && other.transform.CompareTag("EXP"))
+        {
+            PlayerData.Instance.PlayerExpCalc(100f);
+            Destroy(other.gameObject.transform.parent.gameObject);
         }
     }
 }

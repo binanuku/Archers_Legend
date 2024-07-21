@@ -58,7 +58,12 @@ public class SlotMachineMgr : MonoBehaviour
             StartCoroutine ( StartSlot ( i ) );
         }
     }
-    
+
+    private void OnEnable()
+    {
+        Start();
+    }
+
     IEnumerator StartSlot ( int SlotIndex )
     {
         for ( int i = 0 ; i < ( ItemCnt * ( 6 + SlotIndex * 4 ) + answer[SlotIndex] ) * 2 ; i++ )
@@ -78,6 +83,7 @@ public class SlotMachineMgr : MonoBehaviour
 
     public void ClickBtn ( int index )
     {
-        DisplayResultImage.sprite = SkillSprite[ResultIndexList[index]];
+        UIController.Instance.PlayerLvUp(false);
+        //DisplayResultImage.sprite = SkillSprite[ResultIndexList[index]];
     }
 }

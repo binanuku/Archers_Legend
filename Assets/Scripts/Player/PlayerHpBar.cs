@@ -28,7 +28,6 @@ public class PlayerHpBar : MonoBehaviour
     public Transform player;
     public Slider hpBar;
     public float maxHp;
-    public float currentHp;
 
     public int currentHpi;
     public TextMeshProUGUI hpTxt;
@@ -39,8 +38,8 @@ public class PlayerHpBar : MonoBehaviour
     private void Update()
     {
         transform.position = player.position;
-        hpBar.value = currentHp / maxHp;
-        currentHpi = (int)currentHp;
+        hpBar.value = PlayerData.Instance.currentHp / maxHp;
+        currentHpi = (int)PlayerData.Instance.currentHp;
         hpTxt.text = currentHpi.ToString();
     }
 

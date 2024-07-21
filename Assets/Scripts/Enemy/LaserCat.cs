@@ -29,7 +29,7 @@ public class LaserCat : MonoBehaviour
                 HitEffect.transform.position = hit.point;
                 if (hit.transform.CompareTag("Player"))
                 {
-                    PlayerHpBar.Instance.currentHp -= Time.deltaTime * 250f;
+                    PlayerData.Instance.currentHp -= Time.deltaTime * 250f;
                 }
             }
             else
