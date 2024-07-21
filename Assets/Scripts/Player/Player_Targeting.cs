@@ -36,7 +36,6 @@ public class Player_Targeting : MonoBehaviour
     public List<GameObject> MonsterList = new List<GameObject>();
     //Monster를 담는 List 
 
-    public GameObject PlayerBullet;  //발사체
     public Transform AtkPoint;
 
     void OnDrawGizmos()
@@ -73,7 +72,34 @@ public class Player_Targeting : MonoBehaviour
     void Attack()
     {
         Player_Movement.Instance.Anim.SetFloat("AttackSpeed", atkSpd );
-        Instantiate(PlayerBullet, AtkPoint.position, transform.rotation);
+        Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[2]], AtkPoint.position, transform.rotation);
+
+        if (PlayerData.Instance.playerSkill[1] > 0)
+        {
+            Invoke("MultiShot", 0.2f);
+        }
+        if (PlayerData.Instance.playerSkill[3] > 0)
+        {
+            GameObject bulletL = Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[3] - 1], AtkPoint.position, transform.rotation);
+            bulletL.transform.rotation = Quaternion.Euler(transform.eulerAngles + new Vector3(0, -45f, 0));
+
+            GameObject bulletR = Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[3] - 1], AtkPoint.position, transform.rotation);
+            bulletR.transform.rotation = Quaternion.Euler(transform.eulerAngles + new Vector3(0, 45f, 0));
+        }
+    }
+
+    void MultiShot()
+    {
+        Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[2]], AtkPoint.position, transform.rotation);
+
+        if (PlayerData.Instance.playerSkill[3] > 0)
+        {
+            GameObject bulletL = Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[3] - 1], AtkPoint.position, transform.rotation);
+            bulletL.transform.rotation = Quaternion.Euler(transform.eulerAngles + new Vector3(0, -45f, 0));
+
+            GameObject bulletR = Instantiate(PlayerData.Instance.playerBullet[PlayerData.Instance.playerSkill[3] - 1], AtkPoint.position, transform.rotation);
+            bulletR.transform.rotation = Quaternion.Euler(transform.eulerAngles + new Vector3(0, 45f, 0));
+        }
     }
 
     void SetTarget()

@@ -18,8 +18,8 @@ public class EnemyCat : Enemy_Base
         Player = GameObject.FindGameObjectWithTag("Player");
         RoomConditionGO = transform.parent.transform.parent.gameObject.GetComponent<RoomCondition>();
         LaserEffect.SetActive(false);
-        StartCoroutine(WaitPlayer());
-        StartCoroutine(LaserOff());
+        //StartCoroutine(WaitPlayer());
+        //StartCoroutine(LaserOff());
     }
 
     IEnumerator LaserOff()
